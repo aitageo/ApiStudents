@@ -1,1 +1,1 @@
-Crud basico de estudiantes par una institucion educativa
+Crud basico de estudiantes para una institucion educativa
